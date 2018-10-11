@@ -33,6 +33,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-service.xiaomi_vince
 
+# Keymaster
+PRODUCT_PACKAGES += \
+    libkeymaster1
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.vince.rc \
