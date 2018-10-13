@@ -1,3 +1,8 @@
+# Audio dirac
+lib/soundfx/libdirac.so
+lib/libDiracAPI_SHARED.so
+vendor/etc/diracmobile.config
+
 # Audio ACDB - from vince
 vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_General_cal.acdb
