@@ -1,1 +1,1 @@
-add_lunch_combo aosip_vince-userdebug
+add_lunch_combo statix_vince-userdebug
